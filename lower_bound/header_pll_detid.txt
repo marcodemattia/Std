@@ -1,0 +1,7 @@
+-------------
+
+coarse delay | fine delay | dac | detid
+
+summary SQL> 14917 rows selected
+
+-------------
